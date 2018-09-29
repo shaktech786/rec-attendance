@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Shakeel Bhamani",
+      "grade": 7
+    },
+    {
+      "name": "Nahid Habib",
+      "grade": 8
+    },
+    {
+      "name": "Kanwal Ladhani",
+      "grade": 9
+    },
+    {
+      "name": "Arij Punjwani",
+      "grade": 10
+    },
+    {
+      "name": "Rubina Hemani",
+      "grade": 11
+    },
+    {
+      "name": "Razia Lalani",
+      "grade": 12
+    }
+  ]
+}
