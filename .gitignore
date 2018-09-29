@@ -1,5 +1,9 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
+<<<<<<< HEAD
 /.idea
+=======
+.idea/*
+>>>>>>> Add gitignore file
 # dependencies
 /node_modules
 
